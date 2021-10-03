@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pedro.
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me: <br> (LinkedIn) https://www.linkedin.com/in/pedro-monteiro-218930189/
+- 💞️ I’m looking to collaborate on Front-end
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/pedro-monteiro-218930189/w">LinkedIn</a>
 
 <!---
 montteiropedro/montteiropedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
