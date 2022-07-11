@@ -4,6 +4,8 @@
 - 💞️ I’m looking to become a Full Stack Developer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/montteiropedro/">LinkedIn</a> | <a href="mailto:c.montteiropedro@gmail.com">Email</a>
 
+- ✨ I'm really loving to learn Ruby. This language is such a gem... Okay, sorry for that.
+
 <!---
 montteiropedro/montteiropedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
