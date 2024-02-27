@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pedro.
-- 🧠 HTML, CSS, JavaScript, React.js, Ruby, Ruby on Rails.
-- <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" width=14 /> I’m currently learning Ruby on Rails on <a href="https://treinadev.com.br">TreinaDev 10</a>.
+- 🧠 HTML, CSS, JS, TS, React, Ruby, Ruby on Rails.
+- <img class="emojidex-emoji" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" emoji-code="Elixir" width=14 /> I’m currently learning Elixir.
+- 💚 Former TreinaDev 10 studant.
 - ✨ I’m looking to become a Full Stack Developer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/montteiropedro/">LinkedIn</a> | <a href="mailto:c.montteiropedro@gmail.com">Email</a>
 
