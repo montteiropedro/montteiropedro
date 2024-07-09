@@ -1,5 +1,5 @@
 - 👋 Hello there!
-- 🧠 HTML, CSS, JS, TS, React, Ruby, Ruby on Rails.
+- 🧠 JS/TS, React, Ruby/Ruby on Rails, Elixir/Phoenix.
 - &nbsp;<img class="emojidex-emoji" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" emoji-code="Elixir" width=14 />&nbsp; I’m currently learning Elixir.
 - 💚 Former TreinaDev 10 studant.
 - ✨ I’m looking to become a Full Stack Developer.
