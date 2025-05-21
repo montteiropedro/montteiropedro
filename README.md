@@ -1,6 +1,7 @@
+<img src="https://i.pinimg.com/originals/af/47/f3/af47f3d0e36af59fd961d8dce87bfd4b.gif" height="100px">
 <h3>Hey there! 👋</h3>
-
 <h3>A bit 'bout me</h3>
+
 <p>I like playing some video-games, watching movies/series/animes, sports? Count me in even though I'm not that great on those haha.</p>
 <img src="https://www.notion.so/image/https%3A%2F%2Fmedia.tenor.com%2Fimages%2F860a42a32c4f7f4e36df3470088b7470%2Ftenor.gif?table=block&id=a290a312-156b-43ce-802e-bb27375b3aed&spaceId=d0785a3c-3b02-47ed-9ba1-650258c1d94d&userId=159d7b5e-2d03-40b2-9a37-90610330fcbf&cache=v2">
 
